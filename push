@@ -1,0 +1,1358 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <title>IT Jobs Factory | Turn Your IT Dreams into Reality</title>
+  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8J6Q3NRF95"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8J6Q3NRF95', { 'anonymize_ip': true });
+</script>
+  
+  <!-- Meta Description -->
+  <meta name="description" content="Advance your IT career with expert-led training and guaranteed job placement support from IT Job Factory. Get the skills to succeed in today's IT job market. Enroll now!">
+  
+  <!-- Meta Keywords -->
+  <meta name="keywords" content="Learn IT Skills, IT Job Placement Sagar, IT Training with Career Support, Advanced IT Courses, Guaranteed Job Placement, IT Jobs Factory Training, Get Hired IT Skills, Succeed in IT Career, Sagar IT Jobs, Learn to Code in Sagar">
+  
+  <!-- Meta Robots -->
+  <meta name="robots" content="index, follow">
+  
+  <!-- Open Graph / Facebook Meta Tags -->
+  <meta property="og:title" content="IT Job Factory | Turn Your IT Dreams into Reality">
+  <meta property="og:description" content="Advance your IT career with expert-led training and guaranteed job placement support from IT Job Factory. Enroll now!">
+  <meta property="og:image" content="assets/img/og-image.jpg">
+  <meta property="og:url" content="https://itjobsfactory.com">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="IT Job Factory | Turn Your IT Dreams into Reality">
+  <meta name="twitter:description" content="Advance your IT career with expert-led training and guaranteed job placement support from IT Job Factory. Enroll now!">
+  <meta name="twitter:image" content="assets/img/twitter-card-image.jpg">
+  
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
+  <link rel="manifest" href="assets/img/favicons/site.webmanifest">
+  <meta name="theme-color" content="#007bff">
+
+  <!-- DNS Prefetch -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//fonts.gstatic.com">
+  
+  <!--Font Awesome-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4C+X/9Q4EJcKfgS/MDWFDf3wAAQjW8nL1K8GpOr4EQbKf79qZ1TVB1I1+AgZCWYrB+pmA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <!-- Preload key assets -->
+  <link rel="preload" href="assets/css/main.css" as="style">
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Righteous&amp;display=swap" as="font" type="font/woff2" crossorigin>
+  
+  <!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Righteous&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900&amp;family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&amp;display=swap" rel="stylesheet">
+
+  
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/homepage.css" rel="stylesheet">
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+  
+      <a href="/" class="logo d-flex align-items-center me-auto">
+        <img src="assets/img/logo.png" alt="IT Jobs-Factory">
+        <h1 class="sitename">IT JOBS FACTORY</h1>
+      </a>
+  
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="/" class="active">Home</a></li>
+          <li><a href="index.html#about">About</a></li>
+          <li><a href="index.html#bootcamp-benefits">Bootcamps</a></li> 
+          <!-- New link for Testimonials -->
+          <li><a href="index.html#testimonials">Alumini</a></li>
+          <!-- New link for Courses -->
+          <li><a href="index.html#offerings">Courses</a></li> 
+          <li><a href="index.html#faqs">FAQs</a></li> <!-- New link for FAQs -->
+          <li><a href="index.html#contact">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+  
+      <a class="btn-getstarted" href="https://forms.gle/fWHZtktgzBTfGF2g8">Join Webinar</a>
+  
+    </div>
+
+    <!-- Popup Container -->
+    <div
+      id="popup"
+      style="
+        display: flex;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        justify-content: center;
+        align-items: center;
+        z-index: 1000;
+      "
+    >
+      <div
+        style="
+          width: 60%;
+          background: white;
+          border-radius: 10px;
+          overflow: hidden;
+          display: flex;
+          box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+          position: relative;
+        "
+      >
+        <!-- Left Section -->
+        <div
+          style="
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f4f4f4;
+          "
+        >
+          <img
+            src="https://i.ibb.co/FXVBttK/resize-1731574865581920942hello.png"
+            alt="Webinar Image"
+            style="width: 100%; height: auto; max-height: 100%"
+          />
+        </div>
+
+        <!-- Right Section -->
+        <div style="flex: 1; padding: 20px; position: relative">
+          <!-- Close Button -->
+          <span
+            style="
+              position: absolute;
+              top: 10px;
+              right: 10px;
+              font-size: 1.5rem;
+              cursor: pointer;
+            "
+            onclick="closePopup()"
+            >×</span
+          >
+
+          <h2 style="margin-bottom: 10px; font-size: 1.8rem; color: #333">
+            Join Webinar
+          </h2>
+          <p style="margin-bottom: 20px; color: #666">
+            Get Personalized Career Roadmap, Free Career Counselling, and more!
+          </p>
+
+          <form id="webinarForm">
+            <label style="display: block; margin-bottom: 5px">Email ID *</label>
+            <input
+              type="email"
+              placeholder="Enter your Email ID"
+              id="email_id"
+              style="
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+              "
+              required
+            />
+
+            <label style="display: block; margin-bottom: 5px"
+              >Full Name *</label
+            >
+            <input
+              type="text"
+              placeholder="Enter your Full Name"
+              id="Full_name"
+              style="
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+              "
+              required
+            />
+
+            <label style="display: block; margin-bottom: 5px"
+              >Graduation Year *</label
+            >
+            <input
+              type="text"
+              placeholder="Year of Graduation"
+              id="graduation_year"
+              style="
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+              "
+              required
+            />
+
+            <label style="display: block; margin-bottom: 5px">Program *</label>
+            <select
+            id="program"
+              style="
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+              "
+              required
+            >
+              <option value="" disabled selected>Select Program</option>
+              <option value="Full Stack">Full Stack</option>
+              <option value="Data Science">Data Science</option>
+              <option value="DevOps">DevOps</option>
+            </select>
+
+            <label style="display: block; margin-bottom: 5px"
+              >Mobile Number *</label
+            >
+            <input
+              type="tel"
+              placeholder="+91 Enter your mobile number"
+              id="mobile_number"
+              style="
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+              "
+              required
+            />
+
+            <button
+              type="submit"
+              style="
+                width: 100%;
+                padding: 10px;
+                background-color: #4371c7;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                font-size: 1rem;
+                cursor: pointer;
+              "
+            >
+            
+              Register Now!
+              </button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      function closePopup() {
+        document.getElementById("popup").style.display = "none";
+      }
+      document.getElementById('webinarForm').addEventListener('submit', function(e) {
+      e.preventDefault(); // Prevent the default form submission behavior
+
+      // Collect form data
+      const formData = {
+        email: document.getElementById('email_id').value,
+        fullname: document.getElementById('Full_name').value,
+        graduationYear: document.getElementById('graduation_year').value,
+        program: document.getElementById('program').value,
+        mobile: document.getElementById('mobile_number').value
+      };
+
+      // Store data in localStorage
+      localStorage.setItem('webinarFormData', JSON.stringify(formData));
+      /*localStorage.setItem('Is_Email ID',email_id);
+      localStorage.setItem('Graduation Year',graduation_year);
+      localStorage.setItem('Full Name',Full_name);
+      localStorage.setItem('Mobile Number',mobile_number); */
+
+      // Inform the user
+      alert('Form data has been saved successfully!');
+
+      // Clear the form fields (optional)
+      this.reset();
+    });
+
+    // Retrieve and pre-fill form data on page load
+    window.onload = function() {
+      const storedData = localStorage.getItem('webinarFormData');
+      if (storedData) {
+        const formData = JSON.parse(storedData);
+        document.getElementById('email_id').value = formData.email || '';
+        document.getElementById('Full_name').value = formData.fullname || '';
+        document.getElementById('graduation_year').value = formData.graduationYear || '';
+        document.getElementById('program').value = formData.program || '';
+        document.getElementById('mobile_number').value = formData.mobile || '';
+      }
+    };
+    </script>
+  
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    
+<section id="hero" class="hero section">
+  <div class="container text-center">
+    <div class="d-flex flex-column justify-content-center align-items-center">
+      <h1 data-aos="fade-up" class="hero-title">Welcome to <span class="highlight-text">IT JOBS FACTORY</span></h1>
+      <p data-aos="fade-up" data-aos-delay="100" class="hero-subtitle">Start Your Interview Training Today and Step into Success!</p>
+    </div>
+    
+    <div class="hero-wrapper d-flex justify-content-between align-items-start mt-5">
+      <!-- Image Section -->
+      <div class="hero-image" style="flex: 1;">
+        <!-- This image source will be dynamically changed by JavaScript -->
+        <img src="assets/img/default.png" alt="Training Image" class="img-fluid" style="max-width: 100%; border-radius: 10px;">
+        
+        <!-- Stats Section -->
+        <div class="stats-section mt-4">
+          <div class="stats-table d-flex justify-content-around align-items-center p-2" style="background-color: #1b1e2a; border-radius: 8px;">
+            <div class="stat-item text-center">
+              <span class="stat-number" style="color: white;">98%</span>
+              <span class="stat-label" style="color: #9fa6b2;">Placement Rate</span>
+            </div>
+            <div class="stat-item text-center">
+              <span class="stat-number" style="color: white;">1000+</span>
+              <span class="stat-label" style="color: #9fa6b2;">Hiring Partners</span>
+            </div>
+            <div class="stat-item text-center">
+              <span class="stat-number" style="color: white;">115%</span>
+              <span class="stat-label" style="color: #9fa6b2;">Average Hike</span>
+            </div>
+            <div class="stat-item text-center">
+              <span class="stat-number" style="color: white;">2000+</span>
+              <span class="stat-label" style="color: #9fa6b2;">Learners</span>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      
+      <!-- Form Section -->
+      <div class="hero-form" style="flex: 1; padding: 20px;">
+        <h3>Kickstart Your IT Career</h3><span style="color: #002b8f;">Fill out the form to connect with us </span>
+        
+        <!-- Form -->
+        <form id="webinarForm" method-"POST">
+          <div class="form-group text-left">
+            <label for="name">Name <span style="color: red;">*</span></label>
+            <input type="text" class="form-control" id="name" name="entry.1877029705" placeholder="Enter name" required>
+          </div>
+          <div class="form-group text-left">
+            <label for="email">Email <span style="color: red;">*</span></label>
+            <input type="email" class="form-control" id="email" name="entry.1789201400" placeholder="Enter email" required>
+          </div>
+          <div class="form-group text-left">
+            <label for="phone">Phone Number <span style="color: red;">*</span></label>
+            <input type="tel" class="form-control" id="phone" name="entry.566087811" placeholder="Phone number" required>
+          </div>
+          <div class="form-group text-left">
+            <label for="location">Location</label>
+            <input type="text" class="form-control" id="location" name="entry.1156138656" placeholder="Enter your location">
+          </div>
+       
+       
+<!-- Graduation Section with Radio Buttons -->
+<div class="form-group text-left">
+  <label for="experience">Graduation Degree <span style="color: red;">*</span></label> <!-- No entry.* here -->
+  
+  <!-- Radio Buttons -->
+  <div class="form-check">
+    <input type="radio" class="form-check-input" id="experience1" name="entry.1278078687" value="B.E/ B.Tech / B.C.A / B.Sc" required>
+    <label class="form-check-label" for="experience1">B.E/ B.Tech / B.C.A / B.Sc</label>
+  </div>
+  
+  <div class="form-check">
+    <input type="radio" class="form-check-input" id="experience2" name="entry.1278078687" value="B.A/ B.Com/ B.B.A" required>
+    <label class="form-check-label" for="experience2">B.A/ B.Com/ B.B.A</label>
+  </div>
+  
+  <div class="form-check">
+    <input type="radio" class="form-check-input" id="experience3" name="entry.1278078687" value="Other" required>
+    <label class="form-check-label" for="experience3">Other</label>
+  </div>
+</div>
+
+<!-- Experience Section with Radio Buttons -->
+<div class="form-group text-left">
+  <label for="experience">Experience <span style="color: red;">*</span></label> <!-- No entry.* here -->
+  
+  <!-- Radio Buttons -->
+  <div class="form-check">
+    <input type="radio" class="form-check-input" id="experience1" name="entry.600799201" value="Working Professional - Technical" required>
+    <label class="form-check-label" for="experience1">Working Professional - Technical</label>
+  </div>
+  
+  <div class="form-check">
+    <input type="radio" class="form-check-input" id="experience2" name="entry.600799201" value="Working Professional - Non-Technical" required>
+    <label class="form-check-label" for="experience2">Working Professional - Non-Technical</label>
+  </div>
+  
+  <div class="form-check">
+    <input type="radio" class="form-check-input" id="experience3" name="entry.600799201" value="Fresher" required>
+    <label class="form-check-label" for="experience3">Fresher</label>
+  </div>
+  
+  <div class="form-check">
+    <input type="radio" class="form-check-input" id="experience4" name="entry.600799201" value="Others" required>
+    <label class="form-check-label" for="experience4">Others</label>
+  </div>
+</div>
+
+
+          <!-- Submit Button -->
+          <div class="form-group text-right">
+            <button type="submit" class="btn btn-primary short-button">Request Callback</button>
+          </div>
+        </form>
+
+        <!-- Success Message (Initially Hidden) -->
+        <div id="success-message" style="display: none; text-align: center;">
+          <i class="bi bi-check-circle" style="color: green; font-size: 40px;"></i>
+          <p>Your form has been successfully submitted!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+    <!-- /Hero Section -->
+
+
+
+<!-- About Section -->
+<section id="about" class="about section">
+  <div class="container">
+    <div class="row gy-4 align-items-start">
+      <!-- Left Text Content Section -->
+      <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+        <h3>IT Jobs Factory</h3>
+        <p class="who-we-are">Who We Are</p>
+        <p>
+          At IT Jobs Factory, we are dedicated to bridging the gap between IT aspirants and employers by providing high-quality, industry-relevant training. With over 10 years of experience, we specialize in empowering job seekers with the skills and guidance necessary to succeed in the competitive IT industry.<br>
+          <br>
+          Our mission is simple: to help IT professionals and fresh graduates secure their dream jobs by offering a comprehensive range of courses, practical experience, and 100% job assistance. Whether you are looking to start your career or advance your skills, IT Jobs Factory offers personalized training programs covering technologies like Java, DevOps, Cloud, and more.<br>
+          <br>
+          Join IT Jobs Factory and turn your IT dreams into reality.
+        </p>
+        <!-- Read More Button -->
+        <a href="about.html" class="read-more-btn btn btn-primary">Read More</a>
+      </div>
+
+      <!-- Right Side: Image and Cards Section -->
+      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+        <!-- Image section -->
+        <div class="image-container">
+          <img src="assets/img/about1.png" class="img-fluid small-rounded-image" alt="Image 1">
+          <img src="assets/img/about2.png" class="img-fluid small-rounded-image" alt="Image 2">
+        </div>
+
+        <!-- Features as cards -->
+        <div class="feature-cards">
+          <div class="feature-card">
+            <p><strong>100% Job Assistance</strong></p>
+            <p>Full support from training to placement in top IT companies.</p>
+          </div>
+          <div class="feature-card">
+            <p><strong>Training Until Placements</strong></p>
+            <p>We train you until you secure your job. Your success is our priority.</p>
+          </div>
+          <div class="feature-card">
+            <p><strong>Minimum Salary 6 LPA</strong></p>
+            <p>Competitive salary packages with a minimum of 6 LPA.</p>
+          </div>
+          <div class="feature-card">
+            <p><strong>Online & Offline Classes</strong></p>
+            <p>Hands on learning at our Pune and Sagar centers.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- End About Section -->
+
+
+
+
+
+
+<!-- Job Bootcamp Benefits Section -->
+<section id="bootcamp-benefits" class="section benefits-section">
+  <div class="container">
+    <h2 class="job-section-title">Job Bootcamp Benefits</h2>
+
+    <!-- Primary Benefits Cards -->
+    <div class="benefit-cards grid-layout">
+      <div class="card">
+        <div class="icon"><i class="fa fa-chalkboard-teacher"></i></div>
+        <h4>1:1 Expert Session</h4>
+        <p>Get practical insights and personalized advice from industry experts.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fa fa-lightbulb"></i></div>
+        <h4>Projects & Hackathons</h4>
+        <p>Engage in hands-on projects and hackathons to sharpen your problem-solving skills.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fa fa-question-circle"></i></div>
+        <h4>Fastest Doubt Support</h4>
+        <p>Resolve your queries quickly with personalized assistance for clear concept understanding.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fa fa-laptop"></i></div>
+        <h4>Self-paced Classes</h4>
+        <p>Learn at your own pace with instant feedback to reinforce your knowledge.</p>
+      </div>
+    </div>
+
+    <!-- Additional Benefits Section -->
+    <h3 class="section-subtitle">Benefits Beyond Learning</h3>
+    <div class="additional-benefits grid-layout">
+      <div class="card">
+        <div class="icon"><i class="fa fa-github"></i></div>
+        <h4>Github Profile</h4>
+        <p>Build a strong portfolio and showcase your coding skills on Github.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fa fa-linkedin"></i></div>
+        <h4>LinkedIn Profile</h4>
+        <p>Boost your professional visibility with a polished LinkedIn profile.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fa fa-file-alt"></i></div>
+        <h4>Resume Writing</h4>
+        <p>Get guidance on crafting a resume that stands out to potential employers.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fa fa-comments"></i></div>
+        <h4>Interview Preparation</h4>
+        <p>Participate in mock interviews and receive expert feedback.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fa fa-user-friends"></i></div>
+        <h4>Soft Skills</h4>
+        <p>Improve your communication, negotiation, and collaboration skills for a successful career.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fas fa-briefcase"></i></div>
+        <h4>Project Portfolio</h4>
+        <p>Build real-world projects to showcase your skills and stand out to employers with a portfolio that reflects industry-relevant expertise.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fas fa-users"></i></div>
+        <h4>Networking Opportunities</h4>
+        <p>Connect with industry leaders and like-minded professionals, expanding your network to enhance your career growth and opportunities.</p>
+      </div>
+      <div class="card">
+        <div class="icon"><i class="fas fa-handshake"></i></div>
+        <h4>Job Placement Assistance</h4>
+        <p>Receive personalized guidance throughout your job search journey with dedicated placement support, ensuring you find the right opportunity.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!--Testimonials Section-->
+
+
+
+<section id="testimonials" class="testimonials-section">
+  <div class="container">
+    <h2 class="section-heading">What Our Alumni Say</h2>
+    
+    <!-- Swiper Slider -->
+    <div class="swiper testimonials-slider">
+      <div class="swiper-wrapper">
+        <!-- Testimonial 1 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini1.jpeg" alt="Testimonial 1">
+          </div>
+          <div class="testimonial-content">
+            <p>"The Full Stack Web Development program helped me land my dream job! The hands-on experience was crucial."</p>
+            <h4>Bhaiya Gaikwad</h4>
+            <span>Full Stack Developer</span>
+            <p>Package: ₹13.15 LPA</p>
+          </div>
+        </div>
+
+        <!-- Testimonial 2 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini2.jpeg" alt="Testimonial 2">
+          </div>
+          <div class="testimonial-content">
+            <p>"IT Jobs Factory has been a life changer for me. The mentors guided me through every step of the process."</p>
+            <h4>Ritu Patel</h4>
+            <span>Software Engineer</span>
+            <p>Package: ₹8.2 LPA</p>
+          </div>
+        </div>
+
+        <!-- Testimonial 3 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini3.jpeg" alt="Testimonial 3">
+          </div>
+          <div class="testimonial-content">
+            <p>"Switching from a non-IT field to DevOps was made possible by this amazing course. Couldn't be happier!"</p>
+            <h4>Milind Patel</h4>
+            <span>DevOps Engineer</span>
+            <p>Package: ₹11 LPA</p>
+          </div>
+        </div>
+
+        <!-- Testimonial 4 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini4.jpeg" alt="Testimonial 4">
+          </div>
+          <div class="testimonial-content">
+            <p>"The guidance and support provided at IT Jobs Factory were beyond my expectations."</p>
+            <h4>Shravan Kumar Guram</h4>
+            <span>Production Support Engineer</span>
+            <p>Package: ₹10.35 LPA</p>
+          </div>
+        </div>
+        
+        <!-- Testimonial 5 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini5.jpeg" alt="Testimonial 5">
+          </div>
+          <div class="testimonial-content">
+            <p>"The DevOps Bootcamp helped me transition from IT support to DevOps seamlessly. The instructors were fantastic!"</p>
+            <h4>Amber Sahu</h4>
+            <span>DevOps Engineer</span>
+            <p>Package: ₹6.2 LPA</p>
+          </div>
+        </div>
+        
+        <!-- Testimonial 6 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini6.jpeg" alt="Testimonial 6">
+          </div>
+          <div class="testimonial-content">
+            <p>"The Data Science course exceeded expectations, landing me a job in just 4 months!"</p>
+            <h4>Yadvendra Rajpoot</h4>
+            <span>Application Support Engineer</span>
+            <p>Package: ₹12.2 LPA</p>
+          </div>
+        </div>
+        
+        <!-- Testimonial 7 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini7.jpeg" alt="Testimonial 7">
+          </div>
+          <div class="testimonial-content">
+            <p>"The resume building and mock interviews truly helped me stand out during job applications."</p>
+            <h4>Nikhil Patil</h4>
+            <span>Application Support Engineer</span>
+            <p>Package: ₹7.8 LPA</p>
+          </div>
+        </div>
+        
+        <!-- Testimonial 8 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini8.jpeg" alt="Testimonial 8">
+          </div>
+          <div class="testimonial-content">
+            <p>"The Cloud Engineering program gave me the hands-on skills I needed to switch careers."</p>
+            <h4>Mansi Tiwari</h4>
+            <span>Cloud Engineer</span>
+            <p>Package: ₹6.8 LPA</p>
+          </div>
+        </div>
+        
+        <!-- Testimonial 9 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini9.jpeg" alt="Testimonial 9">
+          </div>
+          <div class="testimonial-content">
+            <p>"The Cybersecurity course had real-world case studies that prepared me for the field."</p>
+            <h4>Samadhan Bhorse</h4>
+            <span>IT Support Specialist</span>
+            <p>Package: ₹9.7 LPA</p>
+          </div>
+        </div>
+        
+        <!-- Testimonial 10 -->
+        <div class="swiper-slide testimonial-card">
+          <div class="profile-picture">
+            <img src="assets/img/testimonials/alumini10.jpeg" alt="Testimonial 10">
+          </div>
+          <div class="testimonial-content">
+            <p>"The AI program was a game changer for me. The mentors were excellent."</p>
+            <h4>Akhand Thakur</h4>
+            <span>Data Scientist</span>
+            <p>Package: ₹13 LPA</p>
+          </div>
+        </div>
+
+        <!-- You can keep adding up to 12 testimonials here -->
+
+      </div>
+
+      <!-- Swiper Pagination and Navigation -->
+      <div class="swiper-pagination"></div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+    </div>
+  </div>
+</section>
+
+
+
+<!--End of Testimonials Section-->
+
+
+
+
+
+<!-- Clients Section -->
+<section id="clients" class="clients section">
+  
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Our Hiring Partners</h2>
+  </div><!-- End Section Title -->
+
+  <!-- Swiper Slider Container -->
+  <div class="container" data-aos="fade-up">
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+        <!-- Client Logo 1 -->
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-1.png" class="img-fluid" alt="Client 1">
+        </div>
+        <!-- Client Logo 2 -->
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-2.png" class="img-fluid" alt="Client 2">
+        </div>
+        <!-- Client Logo 3 -->
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-3.png" class="img-fluid" alt="Client 3">
+        </div>
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-4.png" class="img-fluid" alt="Client 4">
+        </div>
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-5.png" class="img-fluid" alt="Client 5">
+        </div>
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-6.png" class="img-fluid" alt="Client 6">
+        </div>
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-7.png" class="img-fluid" alt="Client 7">
+        </div>
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-8.png" class="img-fluid" alt="Client 8">
+        </div>
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-9.png" class="img-fluid" alt="Client 9">
+        </div>
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-10.png" class="img-fluid" alt="Client 10">
+        </div>
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-11.png" class="img-fluid" alt="Client 11">
+        </div>
+        <!-- Add all the other client logos similarly -->
+        <div class="swiper-slide">
+          <img src="assets/img/clients/client-12.png" class="img-fluid" alt="Client 12">
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</section>
+
+<!-- End Clients Section -->
+
+
+
+
+
+
+<!--Our Offerings-->
+
+<section id="offerings" class="offerings-section">
+  <div class="container">
+    <!-- Section Title -->
+    <div class="section-heading" data-aos="fade-up">
+      <h1>Our Offerings</h1>
+      <p class="subheading">Choose the best program that suits your career goals</p>
+    </div>
+
+    <!-- Offerings Content -->
+    <div class="offerings-grid" data-aos="fade-up">
+      
+      <!-- Job Bootcamp -->
+      <div class="offerings-category">
+        <h3>Job Bootcamp</h3>
+        <span class="category-label">For Professionals</span>
+
+        <!-- Full Stack Development Pro Offering -->
+        <div class="offering-card">
+          <h4>Full Stack Development Pro:</h4>
+          <p>200+ Hrs of hands-on coding, 500+ real-world problems, 2500+ learners</p>
+          <div class="tags">
+            <span>React.js</span>
+            <span>Node.js</span>
+            <span>Database Management</span>
+            <span>Advanced Algorithms</span>
+          </div>
+        </div>
+
+        <!-- Data Science and Machine Learning Offering -->
+        <div class="offering-card">
+          <h4>Data Science & Machine Learning Mastery:</h4>
+          <p>150+ Hrs of content, 50+ projects, 1000+ learners</p>
+          <div class="tags">
+            <span>Python</span>
+            <span>TensorFlow</span>
+            <span>Data Visualization</span>
+            <span>Soft Skills</span>
+          </div>
+        </div>
+
+        <!-- Advanced Cloud Engineering Offering -->
+        <div class="offering-card">
+          <h4>Advanced Cloud Engineering:</h4>
+          <p>120+ Hrs of real-world labs, 300+ exercises, 1500+ learners</p>
+          <div class="tags">
+            <span>AWS</span>
+            <span>Azure</span>
+            <span>DevOps Tools</span>
+            <span>Automation</span>
+          </div>
+        </div>
+
+        <!-- Cybersecurity Expert Offering -->
+        <div class="offering-card">
+          <h4>Cybersecurity Expert:</h4>
+          <p>100+ Hrs of hands-on training, 30+ case studies, 800+ learners</p>
+          <div class="tags">
+            <span>Network Security</span>
+            <span>Ethical Hacking</span>
+            <span>Risk Management</span>
+            <span>Soft Skills</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- CareerLaunch -->
+      <div class="offerings-category">
+        <h3>CareerLaunch</h3>
+        <span class="category-label">For Fresh Graduates</span>
+        
+        <!-- Cloud Computing Essentials Offering -->
+        <div class="offering-card">
+          <h4>Cloud Computing Essentials:</h4>
+          <p>500+ Hrs of content, 2500+ questions, 40+ projects</p>
+          <div class="tags">
+            <span>Cloud Architect</span>
+            <span>AWS</span>
+            <span>Azure</span>
+            <span>Soft Skills</span>
+          </div>
+        </div>
+
+        <!-- Advanced DevOps Bootcamp Offering -->
+        <div class="offering-card">
+          <h4>Advanced DevOps Bootcamp:</h4>
+          <p>300+ Hrs of practical learning, 20+ hands-on labs</p>
+          <div class="tags">
+            <span>CI/CD</span>
+            <span>Kubernetes</span>
+            <span>Docker</span>
+            <span>Automation</span>
+          </div>
+        </div>
+        
+        <!-- Full Stack Development Mastery -->
+        <div class="offering-card">
+          <h4>Full Stack Development Mastery:</h4>
+          <p>400+ Hrs of content, 1000+ coding exercises</p>
+          <div class="tags">
+            <span>React.js</span>
+            <span>Node.js</span>
+            <span>MongoDB</span>
+            <span>Soft Skills</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!--End of Our Offerings-->
+
+
+
+
+
+
+    
+    <!-- Frequently Asked Questions-->
+    <section id="faqs">
+        <div class="faq-container">
+      <!-- Left-side Navigation -->
+      <div class="faq-nav">
+        <ul>
+          <li class="active" onclick="openSection('trainingprogram')">Training Program</li> <!-- Moved Training Program to the top -->
+        <li onclick="openSection('eligibility')">Eligibility</li> <!-- Moved Eligibility second -->
+        <li onclick="openSection('outcomeandresults')">Outcome and Results</li>
+        <li onclick="openSection('paymentsandfees')">Payments and Fees</li>
+        </ul>
+      </div>
+    
+      <!-- FAQ Content -->
+      <div class="faq-content" id="faq-section">
+        <!-- Header on Top -->
+        <h2 class="faq-header">Frequently Asked Questions</h2> <!-- Header at the top -->
+
+ <!-- Training Program Section -->
+        <div id="trainingprogram" class="faq-list" style="display:none;">
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What are the offerings of the IT Jobs Factory?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              IT Jobs Factory offers comprehensive, industry-aligned training programs that equip candidates with the technical skills and professional expertise required to succeed in today’s competitive IT landscape." <br><br>
+The technical skills include  Java, Python, Full Stack Development, DevOps, Cloud Computing, Automation, Production Support, and more, tailored to meet the demands of the evolving IT industry.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What will be the mode of conduction of classes?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              We offer both online and offline training sessions:<br>
+              <b>Online:</b> Conducted via any online platform. "Our classes are conducted by global trainers, with some delivering sessions from the USA, France, and Australia. These trainers are seasoned industry experts with decades of professional experience, ensuring that students receive world-class, industry-relevant training."<br>
+              <b>Offline:</b> Available at our Pune and Sagar Branch, Makroniya Center.
+            </div>
+          </div>
+           <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What is the class schedule for working professionals?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              We offer flexible class timings to cater to both freshers and working professionals, with options for weekday and weekend sessions. Our weekend classes are specially designed to accommodate the busy schedules of professionals, ensuring everyone can enhance their skills at a convenient pace.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What is the class schedule for working professionals?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              We offer flexible class timings to cater to both freshers and working professionals, with options for weekday and weekend sessions. Our weekend classes are specially designed to accommodate the busy schedules of professionals, ensuring everyone can enhance their skills at a convenient pace.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              I have work experience in a non-IT field. Can I switch to an IT career?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              Yes, individuals from non-IT backgrounds can transition to IT roles by acquiring the necessary skills through our training programs. Our 100% job assistance ensures a smooth switch to the IT industry.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What kind of support will I have during the course?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              We have a dedicated support team to assist you throughout the program. You can reach us via email at <b>itjobsfactory@gmail.com</b> or <b>support@itjobsfactory.com</b> or call us at <b>+91 9425645442</b> Or <b>07582360093</b>.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              How long does it take to complete the course?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              The duration of the course depends on the program you choose. Typically, courses range from 3 months to 12 months, depending on the depth of the curriculum and individual progress.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              Will I get practical experience during the training?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              Yes, our training emphasizes hands-on experience through live projects, case studies ensuring you are job-ready by the time of completion.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              Is there any interview preparation included in the course?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              Absolutely! We provide thorough interview preparation, including mock interviews, technical assessments, and resume-building workshops to help you stand out in job interviews.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What kind of flexibility is provided to working professionals for the sessions?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              We offer <b>weekend sessions</b> specifically tailored for working professionals. These sessions are designed to accommodate their busy schedules while delivering the same comprehensive training as the regular weekday batches.
+            </div>
+          </div>
+        </div>
+    
+        <!-- Eligibility Section -->
+        <div id="eligibility" class="faq-list" style="display:none;">
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              Who is eligible for the training program?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              Candidates from any discipline (B.A., B.Com., B.B.A., B.C.A., B.Sc., B.E., B.Tech, etc.) are eligible for our training programs. A decent command of Business English is required as a part of the curriculum. "If candidates are not proficient in Business English, our institute offers dedicated training to help them develop the necessary language skills, ensuring they become proficient in Business English communication."
+            </div>
+          </div>
+        </div>
+    
+        <!-- Outcome and Results Section -->
+        <div id="outcomeandresults" class="faq-list" style="display:none;">
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What will I gain after completion of the program?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              Upon completion, you will gain:<br>
+              <ul>
+                <li>Hands-on experience with industry-relevant IT skills.</li>
+                  <li>Interview opportunities with leading IT companies.</li>
+                  <li>100% Job Assistance with a minimum package of 6 LPA.</li>
+                  <li>A certification of completion from IT Jobs Factory.</li>
+              </ul>
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              Which companies will I be placed in?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              We place candidates in top IT MNCs across metro cities such as Pune, Mumbai, Delhi, Kolkata, Chennai, Hyderabad, and Bangalore. All placements come with a minimum starting package of 6 LPA.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What job roles can I apply for after completing the course?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              Candidates of our programs can secure positions in high-demand roles, including:<br>
+              <ul>
+                <li>Production Support Engineer</li>
+                <li>DevOps Engineer</li>
+                <li>Full-Stack Developer</li>
+                <li>Data Analyst</li>
+                <li>Cloud Engineer and more</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+    
+        <!-- Payments and Fees Section -->
+        <div id="paymentsandfees" class="faq-list" style="display:none;">
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              How much does the training program cost?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              The fees vary depending on the program and the candidate’s background. Our counselors provide personalized recommendations for the best-suited program. For detailed fee structures, please contact us at <b>+91 9425645442</b> or <b>07582-360093</b>.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              Can I avail of installment options for fee payment?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              Yes, flexible installment options are available. Our finance team will assist you with the payment plan that best fits your needs.
+            </div>
+          </div>
+          <div class="question-container" onclick="toggleAnswer(this)">
+            <div class="question">
+              What is the refund policy?
+              <span class="faq-arrow"></span>
+            </div>
+            <div class="answer">
+              At the IT Jobs Factory, we offer a transparent refund policy. Upon paying a registration fee of ₹1000, you can attend our demo classes. If, after the demo, you decide not to proceed with the program, the full registration fee will be refunded. This ensures that you are fully satisfied before committing to the course.
+            </div>
+          </div>
+        </div>
+    
+        <!-- Additional sections can be added here -->
+      </div>
+    </div>
+    </section>
+    
+    <!-- Frequently Asked Questions End-->
+
+    <!-- Contact Section Pune-->
+    <section id="contact" class="contact section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p>For inquiries or support regarding our expertly curated Batch Plans, please contact us:</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6">
+            <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up"
+              data-aos-delay="200">
+              <i class="bi bi-geo-alt"></i>
+              <h3>Address</h3>
+              <p style="text-align: center;"><b>Head Office</b></p>
+              <p style="text-align: center;">208, It Jobs Factory, Solitaire Business Hub ­III, Baner, Near Pan card
+                club, Pune, Maharashtra 411045</p>
+              <p style="text-align: center;"><b>Sagar Branch</b></p>
+              <p style="text-align: center;">IT Jobs Factory, Shri krishna Tower , Near Noble college, Makronia, Sagar,
+                Madhya Prdesh 470004</p>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up"
+              data-aos-delay="300">
+              <i class="bi bi-telephone"></i>
+              <h3>Call Us</h3>
+              <p><b>Inquiry</b></p>
+              <p>+91 9993244018</p>
+              <p>+91 6265963315</p>
+              <p><b>Support</b></p>
+              <p>07582360093</p>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up"
+              data-aos-delay="400">
+              <i class="bi bi-envelope"></i>
+              <h3>Email Us</h3>
+              <p><b>Contact</b></p>
+              <p>Contact@itjobsfactory.com</p>
+              <p><b>Support</b></p>
+              <p>Support@itjobsfactory.com</p>
+            </div>
+          </div><!-- End Info Item -->
+
+        </div>
+
+        <div class="row gy-4 mt-1">
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+            <a href="https://maps.app.goo.gl/knNbMTGhijASQtub8">
+              <img src="assets/img/sagar-location.png" frameborder="0" style="border: 1px; width: 100%; height: 400px;"
+                allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></img>
+            </a>
+          </div><!-- End Google Maps -->
+
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
+              data-aos-delay="400">
+              <div class="row gy-4">
+
+                <div class="col-md-6">
+                  <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                </div>
+
+                <div class="col-md-6 ">
+                  <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+                </div>
+
+                <div class="col-md-12">
+                  <input type="text" class="form-control" name="number" placeholder="Number" required="">
+                </div>
+
+                <div class="col-md-12">
+                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                </div>
+
+                <div class="col-md-12 text-center">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                  <button type="submit">Send Message</button>
+                </div>
+
+              </div>
+            </form>
+          </div><!-- End Contact Form -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+  </main>
+
+  <footer id="footer" class="footer position-relative light-background">
+
+    <div class="container footer-top">
+      <div class="row gy-4">
+        <div class="col-lg-4 col-md-6 footer-about">
+          <a href="index.html" class="logo d-flex align-items-center">
+            <span class="sitename">It Jobs Factory</span>
+          </a>
+          <div class="footer-contact pt-3">
+            <p> <strong> 208, It Jobs Factory, Solitaire Business Hub ­III, Baner, Near Pan card
+                club, Pune, Maharashtra 411045 </p>
+            <p class="mt-3"><strong>Phone:</strong> <span>+91 9993244018 <br>&emsp;&emsp;&emsp;&nbsp;
++91 6265963315</span></p>
+            <p><strong>Email:</strong> <span>info@itjobsfactory.com</span></p>
+          </div>
+          <div class="social-links d-flex mt-2">
+            <a href="https://www.facebook.com/profile.php?id=61564151189033" target="_blank"><i class="bi bi-facebook"></i></a>
+            <a href="https://www.instagram.com/factoryitjobs/" target="_blank"><i class="bi bi-instagram"></i></a>
+          </div>
+        </div>
+
+        <div class="col-lg-2 col-md-3 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About us</a></li>
+            <li><a href="index.html#">Services</a></li>
+            <li><a href="#">Terms of service</a></li>
+            <li><a href="#">Privacy policy</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-md-3 footer-links">
+          <h4>Our Services</h4>
+          <ul>
+            <li><a href="index.html#hero" class="active">Home</a></li>
+            <li><a href="index.html#about">About</a></li>
+            <li><a href="index.html#clients">Hiring Partners</a></li>
+            <li><a href="index.html#services">Batch Schedule</a></li>
+            <li><a href="index.html#pricing">Placements</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-md-12 footer-newsletter">
+          <h4>Our Newsletter</h4>
+          <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
+          <form action="forms/newsletter.php" method="post" class="php-email-form">
+            <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
+            <div class="loading">Loading</div>
+            <div class="error-message"></div>
+            <div class="sent-message">Your subscription request has been sent. Thank you!</div>
+          </form>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container copyright text-center mt-4">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">It Jobs Factory</strong><span>All Rights Reserved</span>
+      </p>
+    </div>
+
+  </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+    <script src="https://kit.fontawesome.com/f7a193bf8f.js" crossorigin="anonymous"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/homepage.js"></script>
+
+</body>
+
+</html>
